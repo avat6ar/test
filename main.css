@@ -64,8 +64,8 @@ body {
 }
 @media screen and (max-width: 600px) {
   .main {
-    -webkit-transform: scale(0.29);
-    transform: scale(0.29);
+    -webkit-transform: scale(0.2);
+    transform: scale(0.2);
   }
 }
 
